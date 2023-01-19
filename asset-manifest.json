@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_bundling_test/static/css/main.a20c72a5.css",
+    "main.js": "/react_bundling_test/static/js/main.bf0d1b61.js",
+    "index.html": "/react_bundling_test/index.html",
+    "main.a20c72a5.css.map": "/react_bundling_test/static/css/main.a20c72a5.css.map",
+    "main.bf0d1b61.js.map": "/react_bundling_test/static/js/main.bf0d1b61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a20c72a5.css",
+    "static/js/main.bf0d1b61.js"
+  ]
+}
